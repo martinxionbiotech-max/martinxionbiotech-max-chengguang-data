@@ -1,0 +1,19 @@
+# Chengguang Automotive Battery Database
+
+JIS, DIN, BCI automotive battery specifications, cross-reference, and vehicle fitment.
+
+## Sitemap
+- Battery Models: https://data.chengguangenergy.com/battery-models/
+- JIS Standard: https://data.chengguangenergy.com/standards/jis/
+- DIN Standard: https://data.chengguangenergy.com/standards/din/
+- Cross Reference: https://data.chengguangenergy.com/cross-reference/
+- Terminals: https://data.chengguangenergy.com/terminals/
+- Vehicle Fitment: https://data.chengguangenergy.com/vehicle-fitment/
+
+## Key Battery Models
+- 65D26 (NS70/N50): https://data.chengguangenergy.com/battery-models/jis/65d26/
+- 105D31 (N70/N80/N90): https://data.chengguangenergy.com/battery-models/jis/105d31/
+- 145G51 (N150): https://data.chengguangenergy.com/battery-models/jis/145g51/
+- 190H52 (N200): https://data.chengguangenergy.com/battery-models/jis/190h52/
+- DIN66 (56638): https://data.chengguangenergy.com/battery-models/din/56638-din66/
+- DIN100 (60038): https://data.chengguangenergy.com/battery-models/din/60038-din100/
