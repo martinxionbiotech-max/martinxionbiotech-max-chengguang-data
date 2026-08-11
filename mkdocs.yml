@@ -1,0 +1,78 @@
+site_name: Chengguang Automotive Battery Database
+site_description: Complete automotive battery model database — JIS, DIN, BCI specifications, cross-reference, and vehicle fitment
+site_url: https://data.chengguangenergy.com/
+repo_url: https://github.com/martinxionbiotech-max/chengguang-data
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: amber
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - def_list
+  - pymdownx.emoji
+
+plugins:
+  - search
+
+extra:
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+  generator: false
+  company: Chengguang Power Tech Co., Ltd.
+
+nav:
+  - Home: index.md
+  - Battery Models:
+      - battery-models/index.md
+      - JIS Standard:
+          - battery-models/jis/55b24.md
+          - battery-models/jis/55d23.md
+          - battery-models/jis/65d26.md
+          - battery-models/jis/95e41.md
+          - battery-models/jis/105d31.md
+          - battery-models/jis/145g51.md
+          - battery-models/jis/190h52.md
+      - DIN Standard:
+          - battery-models/din/56638-din66.md
+          - battery-models/din/57117-din70.md
+          - battery-models/din/57219-din72.md
+          - battery-models/din/57412-din75.md
+          - battery-models/din/58043-din80.md
+          - battery-models/din/58827-din88.md
+          - battery-models/din/60038-din100.md
+  - Standards:
+      - standards/index.md
+      - standards/jis.md
+      - standards/din.md
+      - standards/bci.md
+  - Cross Reference:
+      - cross-reference/index.md
+      - cross-reference/jis-to-din.md
+      - cross-reference/din-to-bci.md
+      - cross-reference/model-equivalents.md
+  - Terminals:
+      - terminals/index.md
+  - Vehicle Fitment:
+      - vehicle-fitment/index.md
+  - Guides:
+      - guides/index.md
+      - guides/how-to-read-battery-specs.md
+      - guides/battery-group-explained.md
