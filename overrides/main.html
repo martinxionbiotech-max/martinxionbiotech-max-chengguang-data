@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+
+  {# ─── Organization (unified @id across all chengguang sub-sites) ─── #}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://chengguangenergy.com/#organization",
+    "name": "Chengguang Power Tech Co., Ltd.",
+    "url": "https://chengguangenergy.com/",
+    "logo": "https://data.chengguangenergy.com/assets/chengguang-logo.png",
+    "description": "IATF 16949 certified OEM automotive battery manufacturer since 2002. 200,000 m² factory, 18 production lines, 40,000 batteries/day, exporting to 70+ countries.",
+    "foundingDate": "2002",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Jinzhou",
+      "addressRegion": "Hebei",
+      "addressCountry": "CN"
+    },
+    "areaServed": "Worldwide",
+    "knowsAbout": [
+      "Automotive Battery Manufacturing",
+      "SLI Battery",
+      "AGM Battery",
+      "EFB Battery",
+      "JIS Battery Standard",
+      "DIN Battery Standard"
+    ]
+  }
+  </script>
+
+  {# ─── WebSite ─── #}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://data.chengguangenergy.com/#website",
+    "url": "https://data.chengguangenergy.com/",
+    "name": "Chengguang Automotive Battery Database",
+    "description": "{{ config.site_description }}",
+    "publisher": { "@id": "https://chengguangenergy.com/#organization" }
+  }
+  </script>
+
+  {# ─── WebPage / conditional @type by URL ─── #}
+  {% set page_type = "WebPage" %}
+  {% if page and page.url %}
+    {% if page.url == 'battery-models/' %}
+      {% set page_type = "CollectionPage" %}
+    {% elif page.url.startswith('battery-models/') %}
+      {% set page_type = "ItemPage" %}
+    {% elif page.url.startswith('cross-reference/') %}
+      {% set page_type = "TechArticle" %}
+    {% elif page.url.startswith('standards/') %}
+      {% set page_type = "TechArticle" %}
+    {% elif page.url.startswith('guides/') %}
+      {% set page_type = "Article" %}
+    {% endif %}
+  {% endif %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "{{ page_type }}",
+    "@id": "{{ page.canonical_url if page and page.canonical_url else config.site_url }}#webpage",
+    "url": "{{ page.canonical_url if page and page.canonical_url else config.site_url }}",
+    "name": "{{ page.title if page else config.site_name }}",
+    "isPartOf": { "@id": "https://data.chengguangenergy.com/#website" },
+    "about": { "@id": "https://chengguangenergy.com/#organization" }
+  }
+  </script>
+
+  {# ─── BreadcrumbList ─── #}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://data.chengguangenergy.com/" },
+      { "@type": "ListItem", "position": 2, "name": "{{ page.title if page else config.site_name }}", "item": "{{ page.canonical_url if page and page.canonical_url else config.site_url }}" }
+    ]
+  }
+  </script>
+{% endblock %}
