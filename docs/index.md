@@ -25,7 +25,7 @@ Find, compare, and cross-reference automotive battery specifications across JIS 
 | [57219](battery-models/din/57219-din72.md) | DIN | SLI | 72 | TBD | TBD | Mid EU |
 | [57412](battery-models/din/57412-din75.md) | DIN | SLI | 75 | TBD | TBD | Large EU |
 | [58043](battery-models/din/58043-din80.md) | DIN | SLI | 80 | TBD | 315×175×175 | Large EU |
-| [58827](battery-models/din/58827-din88.md) | DIN | SLI | 88 | TBD | 353×175×175 | Luxury EU |
+| [58827](battery-models/din/58827-din88.md) | DIN | SLI | 88 | 750 | 353×175×190 | Luxury EU |
 | [60038](battery-models/din/60038-din100.md) | DIN | SLI | 100 | 870 | 393×175×175 | Luxury EU |
 
 [:material-magnify: Browse All Models](battery-models/index.md) — full specs, vehicle fitment, OEM availability

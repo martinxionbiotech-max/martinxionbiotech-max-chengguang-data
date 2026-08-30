@@ -16,7 +16,7 @@
 | [57219](din/57219-din72.md) | DIN | SLI | 12V | 72 | TBD | TBD | TBD | DIN post |
 | [57412](din/57412-din75.md) | DIN | SLI | 12V | 75 | TBD | TBD | TBD | DIN post |
 | [58043](din/58043-din80.md) | DIN | SLI | 12V | 80 | TBD | 315 × 175 × 175-190 | TBD | DIN post |
-| [58827](din/58827-din88.md) | DIN | SLI | 12V | 88 | TBD | 353 × 175 × 175-190 | TBD | DIN post |
+| [58827](din/58827-din88.md) | DIN | SLI | 12V | 88 | 750 | 353 × 175 × 190 | TBD | DIN post |
 | [60038](din/60038-din100.md) | DIN | SLI | 12V | 100 | 870 | 393 × 175 × 175-190 | 22-26 | DIN post |
 
 ## :material-sort: By Capacity
