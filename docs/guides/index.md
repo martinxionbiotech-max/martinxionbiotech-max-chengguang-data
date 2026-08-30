@@ -1,3 +1,65 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://data.chengguangenergy.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Guides",
+      "item": "https://data.chengguangenergy.com/guides/"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What guides are available in the database?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "How to Read Battery Specifications and Battery Groups Explained, covering CCA, Ah, RC, C20, and group systems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does Ah (C20) mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ah is capacity at the 20-hour discharge rate. A 65Ah battery can deliver about 3.25A for 20 hours."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is CCA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CCA is the current a battery can deliver at -18°C for 30 seconds while maintaining voltage above 7.2V."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Reserve Capacity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reserve Capacity is the number of minutes a battery can deliver 25A at 27°C before dropping below 10.5V."
+      }
+    }
+  ]
+}
+</script>
+
 # Battery Guides
 
 Practical guides for understanding and selecting automotive batteries.

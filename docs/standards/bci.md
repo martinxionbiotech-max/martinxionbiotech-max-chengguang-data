@@ -1,3 +1,28 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "BCI Battery Standard Guide",
+  "description": "How BCI group numbers define case dimensions and terminal layout for North American automotive batteries, with common group sizes and applications.",
+  "author": {
+    "@type": "Organization",
+    "name": "Chengguang Power Tech Technical Team",
+    "url": "https://chengguangenergy.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chengguang Power Tech Co., Ltd.",
+    "url": "https://chengguangenergy.com/"
+  },
+  "datePublished": "2026-08-11",
+  "dateModified": "2026-08-30",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://data.chengguangenergy.com/standards/bci/"
+  }
+}
+</script>
+
 # BCI Battery Standard
 
 **BCI** (Battery Council International) is the standard automotive battery specification used in North America.
@@ -27,3 +52,7 @@ Chengguang currently does not have BCI-specific product pages. However, our JIS 
 ## Cross-Reference
 
 See our [Cross Reference section](../cross-reference/index.md) for JIS to BCI and DIN to BCI equivalents.
+
+---
+
+*Last updated: 2026-08-30 | Author: Chengguang Power Tech Technical Team | [Chengguang Power Tech Co., Ltd.](https://chengguangenergy.com/)*

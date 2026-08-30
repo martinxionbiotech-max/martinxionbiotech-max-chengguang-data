@@ -1,3 +1,28 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "JIS Battery Standard Guide",
+  "description": "How JIS battery model codes, T1 terminals, B00 hold-down, and polarity conventions define the dominant automotive battery standard across Asia, Africa, the Middle East and Oceania.",
+  "author": {
+    "@type": "Organization",
+    "name": "Chengguang Power Tech Technical Team",
+    "url": "https://chengguangenergy.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chengguang Power Tech Co., Ltd.",
+    "url": "https://chengguangenergy.com/"
+  },
+  "datePublished": "2026-08-11",
+  "dateModified": "2026-08-30",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://data.chengguangenergy.com/standards/jis/"
+  }
+}
+</script>
+
 # JIS Battery Standard
 
 **JIS** (Japanese Industrial Standard) is the dominant automotive battery specification across Asia, Africa, the Middle East, and Oceania.
@@ -56,3 +81,7 @@ When viewed from the terminal side with terminals closest to you.
 | [105D31](../battery-models/jis/105d31.md) | SLI | 90 Ah | 650 A |
 | [145G51](../battery-models/jis/145g51.md) | Heavy Duty | 120–135 Ah | 800–900 A |
 | [190H52](../battery-models/jis/190h52.md) | Heavy Duty | 200 Ah | 1,100 A |
+
+---
+
+*Last updated: 2026-08-30 | Author: Chengguang Power Tech Technical Team | [Chengguang Power Tech Co., Ltd.](https://chengguangenergy.com/)*

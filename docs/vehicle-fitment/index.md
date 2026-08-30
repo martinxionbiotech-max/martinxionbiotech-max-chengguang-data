@@ -1,3 +1,65 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://data.chengguangenergy.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Vehicle Fitment",
+      "item": "https://data.chengguangenergy.com/vehicle-fitment/"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is the vehicle fitment guide official?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Fitment is a general application guide based on market experience. Always verify with vehicle manufacturer specifications before ordering."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which battery fits a Toyota Corolla or Honda Civic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "55D23 or 65D26 are common depending on generation and engine, but tray size and terminal orientation must be verified."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which battery fits a Toyota Hilux or Fortuner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 105D31 is a common choice for SUVs and pickups such as Hilux and Fortuner."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which battery fits a Toyota Land Cruiser or Nissan Patrol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 95E41 is commonly used for large SUVs such as Land Cruiser and Patrol."
+      }
+    }
+  ]
+}
+</script>
+
 # Vehicle Fitment Guide
 
 !!! warning "Application Guide Only"

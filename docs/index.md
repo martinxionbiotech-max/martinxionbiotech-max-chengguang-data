@@ -3,6 +3,70 @@ hide:
   - toc
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://data.chengguangenergy.com/"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is in the Chengguang battery database?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Specifications for 14 JIS and DIN automotive battery models, with cross-reference tables, terminal guides, vehicle fitment, and standards explanations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which battery model is the global bestseller?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 65D26 is the highest-volume JIS model globally and Chengguang's top-selling battery."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which battery suits a compact car?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The JIS 55B24 (45Ah) suits compact cars, while 56638 (DIN66) suits compact European vehicles."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find an equivalent battery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the cross-reference tools to compare JIS-to-DIN, DIN-to-BCI, and model equivalents, while verifying electrical specifications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who manufactures these batteries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All models are manufactured by Chengguang Power Tech Co., Ltd., an IATF 16949 certified OEM battery manufacturer since 2002."
+      }
+    }
+  ]
+}
+</script>
+
 # Chengguang Automotive Battery Database
 
 Find, compare, and cross-reference automotive battery specifications across JIS and DIN standards. **14 models** — all manufactured by Chengguang Power Tech, IATF 16949 certified.

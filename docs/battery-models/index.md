@@ -1,3 +1,65 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://data.chengguangenergy.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Battery Models",
+      "item": "https://data.chengguangenergy.com/battery-models/"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many battery models are in the database?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "14 models total: 7 JIS models from 55B24 through 190H52, and 7 DIN models from DIN66 through DIN100."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which model is best for a mid-size sedan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "55D23, 65D26, or 56638 (DIN66) are common choices depending on the vehicle's standard and tray size."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which models are heavy duty?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "145G51 (120-135Ah) and 190H52 (200Ah) are the heavy-duty JIS models for medium and heavy trucks and equipment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which standard should I use in Southeast Asia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Southeast Asia is nearly 100% JIS; Europe is DIN; the Middle East and Africa use both."
+      }
+    }
+  ]
+}
+</script>
+
 # Battery Models — Complete Specification Comparison
 
 ## :material-table-large: All Models at a Glance

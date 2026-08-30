@@ -1,3 +1,65 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://data.chengguangenergy.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Standards",
+      "item": "https://data.chengguangenergy.com/standards/"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which standards does the database cover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "JIS, DIN, BCI, AS, and SA standards, including their regions, terminal styles, and hold-down systems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which standards does Chengguang manufacture to?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chengguang manufactures 7 JIS and 7 DIN models. AS and SA accept JIS models as equivalent, and BCI is available through cross-reference or contact."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Chengguang switch between standards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Chengguang's production lines can switch between standards within the same facility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why do standards matter for fitment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Each standard defines different case dimensions, terminal types, and hold-down methods, so the standard must match the vehicle and market."
+      }
+    }
+  ]
+}
+</script>
+
 # Battery Standards
 
 Automotive batteries are manufactured to different national and international standards. Each standard defines physical dimensions, terminal configurations, performance test methods, and rating systems.

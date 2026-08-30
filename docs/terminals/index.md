@@ -1,3 +1,73 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://data.chengguangenergy.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Terminals",
+      "item": "https://data.chengguangenergy.com/terminals/"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What terminal types are used on these batteries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "JIS uses T1 small or T1 large terminals, DIN uses standard posts, and BCI uses SAE top posts or side terminals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between T1 small and T1 large?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "T1 small uses about 14.7mm positive and 13.0mm negative posts; T1 large uses about 19.5mm positive and 17.9mm negative posts for heavy-duty batteries."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the standard polarity convention?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Configuration [0] is standard: negative on the left and positive on the right when viewed from the terminal side."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What hold-down systems are used?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "JIS uses B00 (top frame), while DIN uses B13 (bottom rail)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can terminals be customized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Custom terminal types and polarity layouts can be specified for OEM orders."
+      }
+    }
+  ]
+}
+</script>
+
 # Battery Terminal Types
 
 ## JIS Terminals (T1)

@@ -1,3 +1,28 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Automotive Battery Groups Explained: JIS, DIN and BCI",
+  "description": "How JIS, DIN and BCI battery group systems define case size, terminal layout, hold-down method, and market compatibility.",
+  "author": {
+    "@type": "Organization",
+    "name": "Chengguang Power Tech Technical Team",
+    "url": "https://chengguangenergy.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chengguang Power Tech Co., Ltd.",
+    "url": "https://chengguangenergy.com/"
+  },
+  "datePublished": "2026-08-11",
+  "dateModified": "2026-08-30",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://data.chengguangenergy.com/guides/battery-group-explained/"
+  }
+}
+</script>
+
 # Battery Groups Explained
 
 ## What Are Battery Groups?
@@ -48,3 +73,7 @@ DIN uses **5-digit numeric codes** that encode case size.
 - **Capacity**: Larger groups generally have higher capacity
 - **Market**: Different regions standardize on different groups
 - **OEM**: Knowing your market's group system is critical for ordering
+
+---
+
+*Last updated: 2026-08-30 | Author: Chengguang Power Tech Technical Team | [Chengguang Power Tech Co., Ltd.](https://chengguangenergy.com/)*

@@ -1,3 +1,28 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "DIN Battery Standard Guide",
+  "description": "How DIN battery model codes, standard post terminals, B13 hold-down, and polarity conventions define the European automotive battery standard.",
+  "author": {
+    "@type": "Organization",
+    "name": "Chengguang Power Tech Technical Team",
+    "url": "https://chengguangenergy.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chengguang Power Tech Co., Ltd.",
+    "url": "https://chengguangenergy.com/"
+  },
+  "datePublished": "2026-08-11",
+  "dateModified": "2026-08-30",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://data.chengguangenergy.com/standards/din/"
+  }
+}
+</script>
+
 # DIN Battery Standard
 
 **DIN** (Deutsches Institut fur Normung) is the standard automotive battery specification used across Europe and widely adopted in Africa and the Middle East.
@@ -51,3 +76,7 @@ When viewed from the terminal side.
 | [60038](../battery-models/din/60038-din100.md) | DIN100 | 100 Ah | 870 A |
 
 :material-alert: = Requires factory verification
+
+---
+
+*Last updated: 2026-08-30 | Author: Chengguang Power Tech Technical Team | [Chengguang Power Tech Co., Ltd.](https://chengguangenergy.com/)*

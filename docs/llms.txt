@@ -9,6 +9,11 @@ JIS, DIN, BCI automotive battery specifications, cross-reference, and vehicle fi
 - Cross Reference: https://data.chengguangenergy.com/cross-reference/
 - Terminals: https://data.chengguangenergy.com/terminals/
 - Vehicle Fitment: https://data.chengguangenergy.com/vehicle-fitment/
+- BCI Standard: https://data.chengguangenergy.com/standards/bci/
+
+## Guides
+- How to Read Battery Specs: https://data.chengguangenergy.com/guides/how-to-read-battery-specs/
+- Battery Groups Explained: https://data.chengguangenergy.com/guides/battery-group-explained/
 
 ## Key Battery Models
 - 65D26 (NS70/N50): https://data.chengguangenergy.com/battery-models/jis/65d26/

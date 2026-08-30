@@ -1,3 +1,65 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://data.chengguangenergy.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Cross Reference",
+      "item": "https://data.chengguangenergy.com/cross-reference/"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are cross-reference equivalents identical?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Equivalents are based primarily on physical case dimensions. Electrical specifications such as CCA and Ah may differ, so always verify the data sheet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the DIN equivalent of the 65D26?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 65D26 cross-references to DIN66 (56638) and BCI Group 48 (H6) as a same-case-family comparison."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the DIN equivalent of the 105D31?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 105D31 cross-references to DIN80 (58043) and BCI Group 27, but terminal layout should be verified."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why should I verify terminals when cross-referencing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Terminal type and polarity layout can differ between standards even when the case size is similar."
+      }
+    }
+  ]
+}
+</script>
+
 # Battery Cross Reference
 
 Find equivalent and related battery models across JIS, DIN, and BCI standards.

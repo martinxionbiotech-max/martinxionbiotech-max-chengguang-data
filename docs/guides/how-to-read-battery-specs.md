@@ -1,3 +1,28 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How to Read Automotive Battery Specifications",
+  "description": "A practical guide to voltage, Ah/C20 capacity, CCA, reserve capacity, dimensions, terminal type, and polarity when reading a battery label.",
+  "author": {
+    "@type": "Organization",
+    "name": "Chengguang Power Tech Technical Team",
+    "url": "https://chengguangenergy.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chengguang Power Tech Co., Ltd.",
+    "url": "https://chengguangenergy.com/"
+  },
+  "datePublished": "2026-08-11",
+  "dateModified": "2026-08-30",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://data.chengguangenergy.com/guides/how-to-read-battery-specs/"
+  }
+}
+</script>
+
 # How to Read Battery Specifications
 
 ## Key Specifications
@@ -58,3 +83,7 @@ Reads as:
 - Case dimensions in mm
 - Left negative, right positive, polarity type 0
 ```
+
+---
+
+*Last updated: 2026-08-30 | Author: Chengguang Power Tech Technical Team | [Chengguang Power Tech Co., Ltd.](https://chengguangenergy.com/)*
