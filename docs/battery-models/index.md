@@ -29,7 +29,7 @@
       "name": "How many battery models are in the database?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "14 models total: 7 JIS models from 55B24 through 190H52, and 7 DIN models from DIN66 through DIN100."
+        "text": "18 models total: 11 JIS models from 55B24 through 190H52 and 7 DIN models from DIN66 through DIN100, plus BCI group references."
       }
     },
     {
@@ -70,6 +70,10 @@
 | [55D23](jis/55d23.md) | JIS | SLI | 12V | 60 | 500 | 232 × 173 × 202-225 | 13-16 | T1 small |
 | [65D26](jis/65d26.md) | JIS | SLI | 12V | 55-70 | 450-580 | 260 × 173 × 202-225 | 14-18 | T1 small |
 | [95E41](jis/95e41.md) | JIS | SLI | 12V | 100 | 750 | 410 × 176 × 213-233 | 22-26 | T1 small |
+| [65D23](jis/65d23/index.md) | JIS | SLI | 12V | 60 | 370 | 230 × 175 × 202-225 | 13-16 | T1 small |
+| [75D23](jis/75d23/index.md) | JIS | SLI | 12V | 72 | 465 | 230 × 175 × 202-225 | 14-17 | T1 small |
+| [85D26](jis/85d26/index.md) | JIS | SLI | 12V | 84 | 520 | 260 × 173 × 202-225 | 16-19 | T1 small |
+| [95D26](jis/95d26/index.md) | JIS | SLI | 12V | 84 | 565 | 260 × 173 × 202-225 | 17-20 | T1 small |
 | [105D31](jis/105d31.md) | JIS | SLI | 12V | 90 | 650 | 306 × 173 × 202-225 | 19-23 | T1 small |
 | [145G51](jis/145g51.md) | JIS | Heavy Duty | 12V | 120-135 | 800-900 | 508 × 222 × 212-240 | 30-38 | T1 large |
 | [190H52](jis/190h52.md) | JIS | Heavy Duty | 12V | 200 | 1,100 | 521 × 278 × 220-270 | 45-55 | T1 large |

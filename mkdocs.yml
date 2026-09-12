@@ -47,6 +47,10 @@ nav:
           - battery-models/jis/55b24.md
           - battery-models/jis/55d23.md
           - battery-models/jis/65d26.md
+          - battery-models/jis/65d23/index.md
+          - battery-models/jis/75d23/index.md
+          - battery-models/jis/85d26/index.md
+          - battery-models/jis/95d26/index.md
           - battery-models/jis/95e41.md
           - battery-models/jis/105d31.md
           - battery-models/jis/145g51.md
