@@ -81,6 +81,9 @@
 | [58827](din/58827-din88.md) | DIN | SLI | 12V | 88 | 750 | 353 × 175 × 190 | TBD | DIN post |
 | [60038](din/60038-din100.md) | DIN | SLI | 12V | 100 | 870 | 393 × 175 × 175-190 | 22-26 | DIN post |
 
+!!! info "Listed stock models vs BCI group references"
+    The 14 models above are Chengguang's **listed JIS and DIN/EN stock models**. Common North American **BCI group sizes** (Group 24, 27, 31, 4D, 8D) are documented separately as **standard references** in the [BCI Groups](../battery-groups/index.md) section, and are supplied as an OEM / private-label development on request.
+
 ## :material-sort: By Capacity
 
 | Capacity Class | Models |

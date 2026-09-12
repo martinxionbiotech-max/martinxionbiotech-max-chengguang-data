@@ -59,6 +59,13 @@ nav:
           - battery-models/din/58043-din80.md
           - battery-models/din/58827-din88.md
           - battery-models/din/60038-din100.md
+  - BCI Groups:
+      - battery-groups/index.md
+      - battery-groups/group-24.md
+      - battery-groups/group-27.md
+      - battery-groups/group-31.md
+      - battery-groups/4d.md
+      - battery-groups/8d.md
   - Standards:
       - standards/index.md
       - standards/jis.md
