@@ -13,6 +13,22 @@ These models share the same physical case dimensions but have different capacity
 | NS70 | 65 Ah | ~550 A | Same as 65D26 |
 | N50 | 60 Ah | ~500 A | Similar |
 
+### D23 Case Family
+
+| Model | Capacity | CCA | Notes |
+|-------|----------|-----|-------|
+| 55D23 | 60 Ah | ~500 A | Entry (D23 case) |
+| 65D23 | 60 Ah | ~370 A | Mid grade |
+| 75D23 | 72 Ah | ~465 A | Higher capacity |
+
+### D26 Case Family
+
+| Model | Capacity | CCA | Notes |
+|-------|----------|-----|-------|
+| 65D26 | 65 Ah | ~550 A | Standard |
+| 85D26 | 84 Ah | ~520 A | Higher capacity |
+| 95D26 | 84 Ah | ~565 A | Higher CCA grade |
+
 ### 105D31 Case Family
 
 | Model | Capacity | CCA | Notes |
@@ -33,6 +49,10 @@ These models share the same physical case dimensions but have different capacity
 | JIS | Potential DIN Equivalent | Confidence |
 |-----|-------------------------|------------|
 | 65D26 | 56638 (DIN66) | Medium — verify dimensions |
+| 85D26 | 56638 (DIN66) | Medium — verify dimensions |
+| 95D26 | 56638 (DIN66) | Medium — verify dimensions |
+| 65D23 | No direct DIN equivalent | — |
+| 75D23 | No direct DIN equivalent | — |
 | 105D31 | 58043 (DIN80) | Medium — verify terminals |
 | 145G51 | 60038 (DIN100) | Low — heavy duty vs SLI |
 | 95E41 | 58827 (DIN88) | Low — longer case |

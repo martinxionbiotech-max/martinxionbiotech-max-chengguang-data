@@ -5,6 +5,10 @@
 | JIS Model | Dimensions (mm) | Ah | CCA | DIN Equivalent | DIN Dimensions (mm) | Ah | CCA | Fit Match |
 |-----------|-----------------|:---:|:---:|---------------|---------------------|:---:|:---:|:---:|
 | 65D26 | 260 × 173 × 202-225 | 55-70 | 450-580 | 56638 (DIN66) | 278 × 175 × 175-190 | 66 | 540 | :material-alert: Verify |
+| 65D23 | 230 × 175 × 202-225 | 60 | 370 | No direct DIN equivalent | — | — | — | :material-close: Different |
+| 75D23 | 230 × 175 × 202-225 | 72 | 465 | No direct DIN equivalent | — | — | — | :material-close: Different |
+| 85D26 | 260 × 173 × 202-225 | 84 | 520 | 56638 (DIN66) — compare | 278 × 175 × 175-190 | 66 | 540 | :material-alert: Verify |
+| 95D26 | 260 × 173 × 202-225 | 84 | 565 | 56638 (DIN66) — compare | 278 × 175 × 175-190 | 66 | 540 | :material-alert: Verify |
 | 105D31 | 306 × 173 × 202-225 | 90 | 650 | 58043 (DIN80) | 315 × 175 × 175-190 | 80 | TBD | :material-alert: Verify |
 | 95E41 | 410 × 176 × 213-233 | 100 | 750 | 58827 (DIN88) | 353 × 175 × 175-190 | 88 | TBD | :material-close: Different |
 | 145G51 | 508 × 222 × 212-240 | 120-135 | 800-900 | 60038 (DIN100) | 393 × 175 × 175-190 | 100 | 870 | :material-close: Different |
@@ -28,7 +32,7 @@ When sourcing batteries for a new market, use this cross-reference to identify w
 
 | Your Market Standard | Chengguang Models Available | OEM Customization |
 |---------------------|----------------------------|:---:|
-| JIS | 7 models (55B24–190H52) | :material-check: Full |
+| JIS | 11 models (55B24–190H52) | :material-check: Full |
 | DIN | 7 models (56638–60038) | :material-check: Full |
 | BCI | Cross-reference only | :material-check: Available |
 | AS (Australia) | JIS models accepted | :material-check: Full |
