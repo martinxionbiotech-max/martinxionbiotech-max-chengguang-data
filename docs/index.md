@@ -106,19 +106,3 @@ Find, compare, and cross-reference automotive battery specifications across JIS 
 | [:material-cable-data: Terminal Guide](terminals/index.md) | T1, DIN post, polarity, hold-down |
 | [:material-car: Vehicle Fitment](vehicle-fitment/index.md) | Which battery for which vehicle |
 | [:material-help-circle: How to Read Specs](guides/how-to-read-battery-specs.md) | CCA, Ah, RC, C20 explained |
-
----
-
-## :material-family-tree: Chengguang Battery Knowledge Ecosystem
-
-| Site | Purpose | Key Question |
-|------|---------|-------------|
-| :material-domain: **[Main Site](https://chengguangenergy.com/)** | Factory, certifications, contact | *Why Chengguang?* |
-| :material-car-battery: **Battery Database** ← You are here | Models, specs, cross-reference | *Which battery?* |
-| :material-bookshelf: **[Technical Center](https://technical.chengguangenergy.com/)** | Technology, engineering | *How does it work?* |
-| :material-package-variant-closed: **[OEM Manufacturing](https://oem.chengguangenergy.com/)** | Private label, process | *Build my brand?* |
-| :material-earth: **[Market Intelligence](https://market.chengguangenergy.com/)** | Regional demand, trends | *Where's the opportunity?* |
-
-**Chengguang Power Tech Co., Ltd.** — IATF 16949 certified OEM battery manufacturer since 2002. 200,000 m², 18 lines, 40,000/day, 70+ countries.
-
-[:material-domain: Visit Main Site](https://chengguangenergy.com/) · [:material-email: Request OEM Quote](https://chengguangenergy.com/contact/)
